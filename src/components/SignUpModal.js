@@ -24,13 +24,13 @@ export default function SignUpModel() {
             setValidation("Le mot de passe contient moins de 6 charactères !")
             return;
         }
-        else if ((inputs.current[1].value != inputs.current[2].value)) {
+        else if ((inputs.current[1].value !== inputs.current[2].value)) {
             setValidation("Les mot de passe ne correspondent pas !")
             return;
         }
 
         try {
-            const cred = await signUp(
+            await signUp(
                 inputs.current[0].value,
                 inputs.current[1].value
             )

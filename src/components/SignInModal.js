@@ -21,7 +21,7 @@ export default function SignInModel() {
         e.preventDefault()
 
         try {
-            const cred = await signIn(
+            await signIn(
                 inputs.current[0].value,
                 inputs.current[1].value
             )
