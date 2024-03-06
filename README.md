@@ -1,7 +1,6 @@
 # Projet React JS + Firebase
 
-![alt text](https://github.com/alexandrebrgn/authProjectReactJSFirebase/blob/main/public/react.png?raw=true)
-<img src='public/react.png' width='25'>
+<img src='public/react.png' width='50'><img src='public/firebase.png' width='50'>
 
 Ce projet à pour but de mettre en relation React JS et Firebase. Il propose un système d'authentification et de routes privées.
 
