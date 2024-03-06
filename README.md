@@ -1,4 +1,4 @@
-# Projet React JS + Firebase
+# Projet <img src='public/react.png' width='50'>React JS + Firebase
 
 <img src='public/react.png' width='50'><img src='public/firebase.png' width='50'>
 
