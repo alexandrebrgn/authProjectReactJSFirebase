@@ -10,7 +10,7 @@ Ce projet à pour but de mettre en relation React JS et Firebase. Il propose un 
 
   
 
-# Getting started
+# 💩 Getting started
 
   Run command `npm -i`
 
