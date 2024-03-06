@@ -22,10 +22,10 @@
 ## 👟 Getting Started with <img  src='public/react.png'  width='20'> React App
 
 
-### Available Scripts
+### <ins>Available Scripts</ins>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<ins>In the project directory, you can run:</ins>
+&nbsp;&nbsp;&nbsp;&nbsp;In the project directory, you can run :
 
 
 ###  `npm start`
