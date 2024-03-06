@@ -18,12 +18,12 @@
 
   
 
- &nbsp;&nbsp;&nbsp;&nbsp; 1. Créer le projet sur Firebase
- &nbsp;&nbsp;&nbsp;&nbsp; 2. Authentication > Autoriser l'authentification email + mot de passe
- &nbsp;&nbsp;&nbsp;&nbsp; 3. Ajouter un application web
- &nbsp;&nbsp;&nbsp;&nbsp; 4. Récupérer les données de configuration Firebase (apiKey, authDomain, projectId, storageBucket, messagingSenderId, appId)
- &nbsp;&nbsp;&nbsp;&nbsp; 5. Créer un .env.local en depuis le .env-example et remplir les infos
- &nbsp;&nbsp;&nbsp;&nbsp; 6. Configuration de Firebase terminée
+ &nbsp;&nbsp;&nbsp;&nbsp; 1. Créer le projet sur Firebase  
+ &nbsp;&nbsp;&nbsp;&nbsp; 2. Authentication > Autoriser l'authentification email + mot de passe  
+ &nbsp;&nbsp;&nbsp;&nbsp; 3. Ajouter un application web  
+ &nbsp;&nbsp;&nbsp;&nbsp; 4. Récupérer les données de configuration Firebase (apiKey, authDomain, projectId, storageBucket, messagingSenderId, appId)  
+ &nbsp;&nbsp;&nbsp;&nbsp; 5. Créer un .env.local en depuis le .env-example et remplir les infos  
+ &nbsp;&nbsp;&nbsp;&nbsp; 6. Configuration de Firebase terminée  
   
 
 ## 👟 Getting Started with Create React App
@@ -56,6 +56,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;It correctly bundles React in production mode and optimizes the build for the best performance.
 
 
-The build is minified and the filenames include the hashes.\
+&nbsp;&nbsp;&nbsp;&nbsp;The build is minified and the filenames include the hashes.\
 
-Your app is ready to be deployed!
+&nbsp;&nbsp;&nbsp;&nbsp;Your app is ready to be deployed!
