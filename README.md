@@ -6,13 +6,13 @@
 
 Ce projet à pour but de mettre en relation React JS et Firebase. Il propose un système d'authentification et de routes privées.
 
-<img alt=”React” src=”https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 
   
 
 # Getting started
 
-  Run command `$ npm -i`
+  Run command `npm -i`
 
 ## Configuration of <img  src='public/firebase.png'  width='20'>Firebase - Relation with <img  src='public/firebase.png'  width='20'>Firebase
 
