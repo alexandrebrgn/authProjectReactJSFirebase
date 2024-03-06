@@ -1,14 +1,7 @@
 
 # Projet <img  src='public/react.png'  width='25'>React JS + <img  src='public/firebase.png'  width='25'>Firebase
 
-  
-  
-
 &nbsp;&nbsp;&nbsp;&nbsp;Ce projet à pour but de mettre en relation React JS et Firebase. Il propose un système d'authentification et de routes privées.
-
-<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-
-  
 
 # 📄 Getting started
 
@@ -26,10 +19,10 @@
  &nbsp;&nbsp;&nbsp;&nbsp; 6. Configuration de Firebase terminée  
   
 
-## 👟 Getting Started with Create React App
+## 👟 Getting Started with <img  src='public/react.png'  width='20'>React App
 
 
-## Available Scripts
+### Available Scripts
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;In the project directory, you can run:
@@ -59,3 +52,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;The build is minified and the filenames include the hashes.\
 
 &nbsp;&nbsp;&nbsp;&nbsp;Your app is ready to be deployed!
+
+## 💼 Technical skills
+
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src='https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white'><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
